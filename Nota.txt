@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=wfgGyQ_FDik&ab_channel=AnObjectIsA
+
+
+https://github.com/an-object-is-a/js-pinterest-clone/blob/main/scripts/final_board.js
